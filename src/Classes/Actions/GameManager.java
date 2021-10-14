@@ -36,7 +36,7 @@ public class GameManager {
 
     public void checkIfDead(double HP)
     {
-        if ( HP <= 0 ) GameOverConsole(150);
+        if ( HP <= 0 ) GameOverConsole(250);
     }
 
 }

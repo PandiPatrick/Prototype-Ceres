@@ -73,7 +73,6 @@ public class Skill {
         {
             XP = XP - RankUpXP;
             addLevel(1);
-            checkRankUp();
         }
     }
 
