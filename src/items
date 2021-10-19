@@ -1,0 +1,4 @@
+{
+  "items": [ { "ID" : 0 , "Name" : "NULL" }, { "ID" : 1, "Name" : "Stick", "Description" : "Just a stick" }, { "ID" : 2, "Name" : "Stone", "Description" : "Stone found by the river"}
+  ]
+}
